@@ -16,6 +16,7 @@ Passionate about leveraging technology to create solutions that matter, I specia
   Creating engaging and immersive gaming experiences.
 
 🌟 I’m proud to collaborate with leading organizations like:
+Research and Innovation Hub PIU
 - **DEMOTESTERPROJECTS - developerpattaehyung**
 - **AdaptivetechPioneers**
 
