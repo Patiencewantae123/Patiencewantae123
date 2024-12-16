@@ -25,7 +25,7 @@ I'm proud to collaborate with teams such as:
 ![Highlight Pro](https://your-image-url.com/highlight-image.gif)
 
 
-🚀 **Highlight Pro**: Boost your repository visibility and manage tasks with **Highlight Pro**. Seamlessly organize your projects and showcase your progress.
+🚀 **Highlight Pro**:
 
 ![Highlight Pro](https://your-image-url.com/highlight-image.gif)
 
