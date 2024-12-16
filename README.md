@@ -20,6 +20,14 @@ I'm proud to collaborate with teams such as:
 
 ---
 
+## 🌟 Highlight Pro
+
+🚀 **Highlight Pro**: Boost your repository visibility and manage tasks with **Highlight Pro**. Seamlessly organize your projects and showcase your progress.
+
+![Highlight Pro](https://your-image-url.com/highlight-image.gif)
+
+---
+
 ## 🏆 Highlighted Repositories
 
 Explore some of my most impactful projects:
@@ -76,4 +84,3 @@ Let’s collaborate and innovate together! Reach out through the following chann
 Thank you for visiting my GitHub profile! Whether you’re here to explore projects, raise issues, or contribute, I’m excited to collaborate and innovate with you. Let’s shape the future, together. ✨
 
 ![Innovation Animation](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
