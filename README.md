@@ -93,7 +93,7 @@ Let’s make a difference together! Connect with me across these platforms:
 
 Thanks for visiting my tech world! Let’s create, innovate, and shape the future—together. 💡✨
 
-![Goodbye Animation](https://media.giphy.com/media/xUOxeYbn8WU58ZTFRW/giphy.gif)
+
 
 ---
 
