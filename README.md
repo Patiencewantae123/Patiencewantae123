@@ -82,6 +82,10 @@ Want to turn crazy ideas into reality? Let’s make it happen:
 
 ## 🎓 Shout-Outs & Thanks
 
-You made it to the end—awesome! 🎉 Thanks for stopping by my GitHub playground. Whether you’re here to brainstorm, build, or just browse, let’s create tech that leaves a mark. 💥
+You made it to the end—awesome! 🎉 Thanks for stopping by my GitHub playground. Whether you’re here to brainstorm, build, or just browse, let’s create tech that leaves a mark. 
+![Tech Magic Animation](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
 
-![End Scene Animation](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
+---
+
+## 🏆 Star Projects (Prepare to Be Amazed)
+
