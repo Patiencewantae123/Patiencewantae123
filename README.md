@@ -84,4 +84,4 @@ Want to turn crazy ideas into reality? Let’s make it happen:
 
 You made it to the end—awesome! 🎉 Thanks for stopping by my GitHub playground. Whether you’re here to brainstorm, build, or just browse, let’s create tech that leaves a mark. 💥
 
-![End Scene Animation](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
+
