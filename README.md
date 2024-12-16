@@ -18,16 +18,7 @@ Hi there! I'm **Patience Wantae**, a passionate developer, researcher, and lifel
 I'm proud to collaborate with teams such as:  
 **[DEMOTESTERPROJECTS](https://github.com/DEMOTESTERPROJECTS)**, **[AdaptivetechPioneers](https://github.com/AdaptivetechPioneers)**, and **[Research-Innovation-Hub-PIU](https://github.com/Research-Innovation-Hub-PIU)** to create solutions that shape a brighter future. 🌍
 
----
-
-## 🌟 Highlight Pro
-![Highlight Pro](https://img.shields.io/badge/Highlight%20Pro-Boost%20Visibility-blue)
-![Highlight Pro](https://your-image-url.com/highlight-image.gif)
-
-
-🚀 **Highlight Pro**:
-
-![Highlight Pro](https://your-image-url.com/highlight-image.gif)
+![Coding Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
@@ -42,11 +33,9 @@ Explore some of my most impactful projects:
 
 But that’s just the beginning! Dive into **131+ repositories** covering:
 
-- 🎮 Advanced 3D game engines
-- 🚀 Robotics simulators
+- 🎮 Advanced 3D game engines  
+- 🚀 Robotics simulators  
 - 🌐 Multilingual translation tools
-
-![Coding Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
