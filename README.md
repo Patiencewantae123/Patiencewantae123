@@ -1,6 +1,4 @@
-Here's an enhanced version of your tech bio to make it even more engaging:
 
----
 
 ```
 .----------------.  .----------------.  .----------------.  .----------------.  
