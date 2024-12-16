@@ -78,7 +78,7 @@ Let’s create something extraordinary together! Reach out and let’s build:
   - [AdaptivetechPioneers](https://github.com/AdaptivetechPioneers)  
   - [Research-Innovation-Hub-PIU](https://github.com/Research-Innovation-Hub-PIU)
 
-![Collaboration Animation](https://media.giphy.com/media/3o6MbdT6HOZ5QXbW4k/giphy.gif)
+![Collaboration Animation](https://media.giphy.com/media/xT9IgoVzDyN4qgbjx6/giphy.gif)
 
 ---
 
