@@ -1,4 +1,5 @@
 # 🌟 **Welcome to Patience Wantae's Tech Odyssey** 🌟  
+![Welcome Animation](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 
 
