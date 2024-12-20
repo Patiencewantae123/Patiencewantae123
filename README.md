@@ -1,6 +1,6 @@
 # 🌟 **Welcome to Patience Wantae's Tech Odyssey** 🌟  
 
-![Hero Animation](https://media.giphy.com/media/1n78c2EXYOPsBaPocs/giphy.gif)  
+
 
 Hi there! 👋 I’m **Patience Wantae**, a passionate innovator blending **creativity**, **technology**, and **imagination** to redefine possibilities. Let’s explore the boundless universe of my projects! 🚀  
 
