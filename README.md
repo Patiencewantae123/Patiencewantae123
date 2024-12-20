@@ -38,7 +38,7 @@ Hi there! 👋 I’m **Patience Wantae**, a passionate innovator blending **crea
 | 🌐 **Web Development** | Designing dynamic, user-friendly web experiences.                                            |  
 | 🎮 **Game Development** | Creating immersive and engaging virtual worlds.                                              |  
 
-![Tech Skills Animation](https://media.giphy.com/media/l4FGBOxbp8LZgSRWo/giphy.gif)  
+
 
 ---
 
