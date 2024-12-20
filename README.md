@@ -104,4 +104,4 @@ Let’s dream big, build boldly, and shape the future—together. 💻✨
 
 ---
 
-This version uses a variety of animations for a more dynamic and engaging presentation. Let me know if there’s anything else you'd like to tweak!
+
