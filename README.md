@@ -9,16 +9,12 @@ Hi there! 👋 I’m **Patience Wantae**, a passionate innovator blending **crea
 
 ## 🎭 **About Me**  
 
-```
  .----------------.  .----------------.  .----------------.  .----------------.  
 | .--------------. || .--------------. || .--------------. || .--------------. |  
 | |    Creator   | || |  Innovator   | || |   Coder      | || |   Dreamer    | |  
 | |     of       | || |     of       | || |     with      | || |     of       | |  
 | |   Futures    | || |  Technology  | || |    Purpose    | || |  Possibility | |  
 '----------------'  '----------------'  '----------------'  '----------------'  
-```
-
-![About Me Animation](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)  
 
 💡 **Who I Am:**  
 - **Tech Explorer:** Constantly innovating and uncovering new horizons.  
@@ -38,9 +34,6 @@ Hi there! 👋 I’m **Patience Wantae**, a passionate innovator blending **crea
 | 🌐 **Web Development** | Designing dynamic, user-friendly web experiences.                                            |  
 | 🎮 **Game Development** | Creating immersive and engaging virtual worlds.                                              |  
 
-
-
----
 
 ## 🌟 **Featured Projects**  
 
@@ -76,13 +69,12 @@ Here’s a glimpse of my most exciting creations:
 
 ## 🤝 **Let’s Collaborate**  
 
-```
  .----------------.  .----------------.  .----------------.  .----------------.  
 | .--------------. || .--------------. || .--------------. || .--------------. |  
 | |  Collaborate | || |   Innovate   | || |    Design     | || |    Inspire   | |  
 | |    With Me!  | || |     Bold     | || |  Solutions    | || |    Ideas     | |  
 '----------------'  '----------------'  '----------------'  '----------------'  
-```  
+ 
 
 ![Collaborate Animation](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)  
 
