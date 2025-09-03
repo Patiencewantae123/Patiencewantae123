@@ -1,111 +1,61 @@
-# 🌟 **Welcome to Patience Wantae's Tech Odyssey** 🌟
+# 👋 Hey, I'm Patience  
 
-![Welcome Animation](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
-
-Hey there! 👋 I’m **Patience Wantae** — where passion meets purpose in the world of **tech, creativity, and futuristic innovation**. Join me on this ever-evolving journey through ideas that dare to dream. 🚀
+🚀 Developer | 🌱 Lifelong Learner | 💡 Tech Explorer  
 
 ---
 
-## 🎭 **Who Is Patiencewantae ?**
-
-```
- .----------------.  .----------------.  .----------------.  .----------------.  
-| .--------------. || .--------------. || .--------------. || .--------------. |  
-| |    Creator   | || |  Innovator   | || |   Coder      | || |   Dreamer    | |  
-| |     of       | || |     of       | || |     with     | || |     of       | |  
-| |   Futures    | || |  Technology  | || |    Purpose   | || | Possibility  | |  
-'----------------'  '----------------'  '----------------'  '----------------'  
-```
-
-![About Me Animation](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
-
-🔍 **Quick Glance:**
-
-* 🔬 Always exploring what’s next in tech.
-* 🛠️ Building tools that *actually* solve problems.
-* 🌍 Believing that innovation means nothing unless it uplifts lives.
-
-Whether I’m debugging AI models or sketching a new game concept, I bring curiosity, compassion, and bold imagination to the table.
+## 🧑‍💻 About Me  
+- 🌍 From Kenya (Nairobi)  
+- 💻 Passionate about **Flutter, AI, Full-Stack, Cybersecurity & Game Dev**  
+- 📚 Constantly learning and experimenting with emerging tech  
+- 🎯 Focused on building real-world, meaningful solutions  
 
 ---
 
-## 🚀 **Explore My Tech World**
-
-Every line of code, every design choice, and every challenge I tackle falls into one of these realms:
-
-| **Domain**                   | **Mission**                                                 |
-| ---------------------------- | ----------------------------------------------------------- |
-| 🤖 **AI & Machine Learning** | Teaching machines to see, think, and create with purpose.   |
-| 🔒 **Cybersecurity**         | Fortifying digital spaces where trust and safety thrive.    |
-| 🌐 **Web Development**       | Building modern, accessible, and human-first web platforms. |
-| 🎮 **Game Development**      | Crafting experiences that entertain, educate, and empower.  |
+## ⚡ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 
 ---
 
-## ✨ **Projects That Define Me**
-
-A glimpse into innovations close to my heart:
-
-| **Project**                                                                                 | **Why It Matters**                                      | **Built With**            |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| [**Fashion AI API**](https://github.com/Patiencewantae123/fashion_ai_api)                   | AI meets personal style — fashion that adapts to *you*. | Python, TensorFlow        |
-| [**Ethical Hacking System**](https://github.com/Patiencewantae123/Ethicalhackingsystem-PWG) | Advocating digital ethics through proactive defense.    | Python, Cybersecurity, AI |
-
-🎮 Also working on:
-
-* Game engines that tell immersive stories
-* 🤖 Robots that serve communities
-* 🌍 Solutions designed for local impact
-
-![Projects Showcase Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+## 📊 GitHub Stats  
+![Patience's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patiencewantae123&show_icons=true&theme=radical)
 
 ---
 
-## 📅 **Moments That Mattered**
-
-These milestones fueled the fire:
-
-| **When**     | **What Happened**                                                                              |
-| ------------ | ---------------------------------------------------------------------------------------------- |
-| **Dec 2024** | Sparked discussion with [Fashion AI API](https://github.com/Patiencewantae123/fashion_ai_api). |
-| **Nov 2024** | Helped shape [KIPAJIFASHIONROBOT](https://github.com/Patiencewantae123/KIPAJIFASHIONROBOT).    |
-| **Oct 2024** | Joined forces with [AdaptivetechPioneers](https://github.com/AdaptivetechPioneers).            |
-
-![Milestone Animation](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+##  Local Contribution Recognition  
+[![committers.top badge](https://user-badge.committers.top/kenya/Patiencewantae123.svg)](https://committers.top/kenya.html)  
+Ranked among Kenya’s **top GitHub contributors**—with over 208 contributions in the past year :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🤝 **Let’s Build Something Great**
+##  Highlights & Milestones (2023–2025)
 
-```
- .----------------.  .----------------.  .----------------.  .----------------.  
-| .--------------. || .--------------. || .--------------. || .--------------. |  
-| |  Collaborate | || |   Innovate   | || |    Design     | || |    Inspire   | |  
-| |    With Me!  | || |     Bold     | || |  Solutions    | || |    Ideas     | |  
-'----------------'  '----------------'  '----------------'  '----------------'  
-```
-
-![Collaborate Animation](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
-
-📬 Let’s chat or collaborate on something that matters:
-
-* **GitHub:** [Patience Wantae](https://github.com/Patiencewantae123)
-* **My Teams:**
-
-  * [DEMOTESTERPROJECTS](https://github.com/DEMOTESTERPROJECTS)
-  * [AdaptivetechPioneers](https://github.com/AdaptivetechPioneers)
-  * [Research-Innovation-Hub-PIU](https://github.com/Research-Innovation-Hub-PIU)
+| When      | Highlight                                  |
+|-----------|---------------------------------------------|
+| **Dec 2024** | Launched **Fashion AI API**—where AI meets personal style :contentReference[oaicite:1]{index=1} |
+| **Nov 2024** | Contributed to **KIPAJIFASHIONROBOT**, blending fashion and robotics :contentReference[oaicite:2]{index=2} |
+| **Oct 2024** | Joined the **AdaptivetechPioneers** collective to innovate together :contentReference[oaicite:3]{index=3} |
 
 ---
 
-## 💡 **Final Thought**
+##  Featured Projects  
 
-> ✨ *"The best way to predict the future is to invent it."* — Alan Kay
+- **Fashion AI API** – AI-powered fashion personalization using Python and TensorFlow :contentReference[oaicite:4]{index=4}  
+- **Ethical Hacking System (Ethicalhackingsystem-PWG)** – Combining AI with cybersecurity defense values :contentReference[oaicite:5]{index=5}  
+- **My Kitenge Wardrobe (fashion_ai_api)** – A Flutter app to upload & view Kitenge outfit images, with sleek UI and image-picker functionality :contentReference[oaicite:6]{index=6}  
 
-![Closing Animation](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif)
+---
 
-Here’s to dreaming bravely, designing boldly, and creating together. 💻✨
+##  Connect with Me  
+- [GitHub](https://github.com/Patiencewantae123)  
+- [LinkedIn](https://www.linkedin.com/in/patience-wangui-840516225) :contentReference[oaicite:7]{index=7}  
+- [Personal Site](https://sites.google.com/view/patience-wangui/home) :contentReference[oaicite:8]{index=8}  
+- [Email](mailto:patience.cui.g@gmail.com) :contentReference[oaicite:9]{index=9}  
 
-
-
-
+✨ *Thanks for stopping by—let’s build something amazing together!*  
