@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="YOUR_IMAGE_PATH/c3eaf8f0-d129-40f6-8504-303a8aebf841.png" alt="GitHub Contribution Graph" width="800"/>
+  <img src="https://github.com/Patiencewantae123/Patiencewantae123/blob/main/assets/github_stats_polished.png" alt="GitHub Contribution Graph" width="800"/>
 </p>
 
 ---
