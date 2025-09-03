@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patiencewantae123&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=👋%20Hey,%20I'm%20Patience&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
-  Hi i am Patiencewantae 123 let's learn and build together
   🚀 Developer | 🌱 Lifelong Learner | 💡 Tech Explorer
 </p>
 
@@ -20,3 +19,28 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patiencewantae123&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patiencewantae123&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patiencewantae123&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/Patiencewantae123"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/patience-wangui-840516225"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/></a>
+  <a href="mailto:patience.cui.g@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="40"/></a>
+  <a href="https://sites.google.com/view/patience-wangui/home"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="40"/></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
