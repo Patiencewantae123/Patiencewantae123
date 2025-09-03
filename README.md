@@ -25,15 +25,7 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patiencewantae123&show_icons=true&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patiencewantae123&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patiencewantae123&layout=compact&theme=radical" height="170"/>
+  <img src="YOUR_IMAGE_PATH/c3eaf8f0-d129-40f6-8504-303a8aebf841.png" alt="GitHub Contribution Graph" width="800"/>
 </p>
 
 ---
