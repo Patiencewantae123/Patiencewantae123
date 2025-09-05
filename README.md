@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=👋%20Hey,%20I'm%20Patience&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=👋%20Hey,%20I'm%20Patiencewantae123%20123&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+
 </p>
 
 <p align="center">
