@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="180" alt="Dancing girl"/>
    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="130" alt="Laughing girl"/>
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="130" alt="Excited character"/>
   <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="130" alt="Thinking character"/>
