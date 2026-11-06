@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="130" alt="Excited character"/>
   <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="130" alt="Thinking character"/>
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="130" alt="Happy character"/>
- <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="130" alt="Celebrating girl"/>
+ 
 </p>
 
 <p align="center">💖✨💃</p>
