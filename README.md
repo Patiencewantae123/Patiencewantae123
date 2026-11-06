@@ -12,12 +12,11 @@
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="130" alt="Laughing"/>
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="130" alt="Excited"/>
   <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="130" alt="Thinking"/>
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="130" alt="Celebrating"/>
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" alt="Person typing on computer"/>
   <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="150" alt="Love"/>
-  <img src="https://media.giphy.com/media/3o6fJ1BM7R2EBRDnxK/giphy.gif" width="150" alt="Cute reaction"/>
 </p>
 
 <p align="center">💖 ✨ 🌸 💃 🎀</p>
