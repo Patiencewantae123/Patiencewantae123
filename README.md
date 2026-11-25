@@ -29,7 +29,6 @@
 <!-- EXTRA PERSONALITY -->
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt4HU9uwXmXSAuI/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="180"/>
 </p>
 
 <p align="center">💖 ✨ 🌸 💃 🎀 🤪</p>
