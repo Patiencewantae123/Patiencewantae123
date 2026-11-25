@@ -23,9 +23,8 @@
 
 <!-- GIRL TYPING ON COMPUTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="180" height="180" alt="Girl typing on computer"/>
-</p>
-
+  <img src="https://media1.tenor.com/m/KG-j48r7X4MAAAAd/typing-keyboard.gif" width="180" alt="Girl typing on laptop"/>
+</p><
 <!-- EXTRA PERSONALITY -->
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt4HU9uwXmXSAuI/giphy.gif" width="180" height="180" alt="Personality GIF"/>
