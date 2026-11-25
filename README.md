@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/10JhviFuU2gWD6/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/1r91ZwKcE2J7WhUqrh/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="150"/>
+  
 </p>
 
 <!-- CLEVER & THINKING -->
