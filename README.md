@@ -5,16 +5,19 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/10JhviFuU2gWD6/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="180"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="140"/>
-  <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="140"/>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="140"/>
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/1r91ZwKcE2J7WhUqrh/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt4HU9uwXmXSAuI/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="180"/>
 </p>
 
 <p align="center">💖 ✨ 🌸 💃 🎀 🤪</p>
