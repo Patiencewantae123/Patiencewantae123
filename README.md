@@ -5,19 +5,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/10JhviFuU2gWD6/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="180"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5hdDJlbjhiNnZnaXhiNGVhdnlyZGtubDU1dDBocmhqa2dsOXhibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GWtXnO00KvUD2cwQWh/giphy.gif" width="180"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW42bnlwcDQxN2I0cXp4d2xoeGx1dDFuaWtqc2w5Y2FkZmFqOHN6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iD1QQCbrl548I31Qww/giphy.gif" width="180"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1r91ZwKcE2J7WhUqrh/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV1Y29temE5MDVjNHp4NXRnNXFrcjAxZnd4YWp0a2VqNnVtZGxxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rky7NL3veELeU8aIuw/giphy.gif" width="180"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V5MWF5anVrN3Jtc2NwdW94M2Nuczh3ZjFsbHVibHZla3V2NnB3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WallPNJYryZfxqMdmq/giphy.gif" width="180"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt4HU9uwXmXSAuI/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="180"/>
-</p>
-
-<p align="center">💖 ✨ 🌸 💃 🎀 🤪</p>
+<p align="center">💖 ✨ 🌸 💻 🎀 🤪</p>
