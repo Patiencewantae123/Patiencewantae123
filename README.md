@@ -22,7 +22,7 @@
 <!-- CLEVER & THINKING -->
 <p align="center">
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V5MWF5anVrN3Jtc2NwdW94M2Nuczh3ZjFsbHVibHZla3V2NnB3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WallPNJYryZfxqMdmq/giphy.gif" width="180"/>
+  
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150"/>
 </p>
 
