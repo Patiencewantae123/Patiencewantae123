@@ -21,9 +21,9 @@
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150" height="150" alt="Thinking GIF"/>
 </p>
 
-<!-- CLUELESS & TYPING -->
+<!-- GIRL TYPING ON COMPUTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="180" height="180" alt="Clueless typing GIF"/>
+  <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="180" height="180" alt="Girl typing on computer"/>
 </p>
 
 <!-- EXTRA PERSONALITY -->
