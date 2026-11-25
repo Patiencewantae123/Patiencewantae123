@@ -1,4 +1,3 @@
-
 <h1 align="center">
   👋 Hey there! I'm
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=350&lines=Patiencewantae123+%F0%9F%92%96" alt="Patiencewantae123"/>
@@ -20,6 +19,11 @@
 <!-- CLEVER & THINKING -->
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150" height="150" alt="Thinking GIF"/>
+</p>
+
+<!-- CLUELESS & TYPING -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="180" height="180" alt="Clueless typing GIF"/>
 </p>
 
 <!-- EXTRA PERSONALITY -->
